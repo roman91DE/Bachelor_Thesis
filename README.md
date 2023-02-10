@@ -18,5 +18,6 @@ there is a strong indication for a trade deflecting effect caused by the Europea
 Keywords
 Genetic Programming, Estimation of Distribution Algorithms, Denoising Autoencoder Genetic Programming, Pre-Training, Long Short-Term Memory Networks, Symbolic Regression
 
-Documents available:
+## Documents available:
+
 Full Thesis: Bachelorarbeit_RomanHoehn.pdf
