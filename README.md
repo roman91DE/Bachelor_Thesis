@@ -18,4 +18,4 @@ there is a strong indication for a trade deflecting effect caused by the Europea
 
 ## Documents available:
 
-Full Thesis: Bachelorarbeit_RomanHoehn.pdf
+[Full Thesis](https://github.com/roman91DE/Bachelor_Thesis/blob/main/Bachelorarbeit_RomanHoehn.pdf)
