@@ -15,8 +15,6 @@ methods of descriptive statistics and interferential statistics based on the gra
 bilateral trade flows described by Tinbergen (1962). The results of my research suggest that
 there is a strong indication for a trade deflecting effect caused by the European Union’s antidumping regulation with a highly statistical significant average increase ranging between
 +147,81% to +258,02% of Chinese exports for affected HS categories to alternative markets. 
-Keywords
-Genetic Programming, Estimation of Distribution Algorithms, Denoising Autoencoder Genetic Programming, Pre-Training, Long Short-Term Memory Networks, Symbolic Regression
 
 ## Documents available:
 
